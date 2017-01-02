@@ -1,0 +1,48 @@
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\Repository\bin\Debug\Repository.dll.config
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\Repository\bin\Debug\Repository.dll
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\Repository\bin\Debug\Repository.pdb
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\Repository\bin\Debug\EntityFramework.dll
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\Repository\bin\Debug\EntityFramework.xml
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\Repository\obj\Debug\Repository.dll
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\Repository\obj\Debug\Repository.pdb
+C:\Users\s23-rp\Desktop\Repository\MvcApplication4\Repository\bin\Debug\Repository.dll.config
+C:\Users\s23-rp\Desktop\Repository\MvcApplication4\Repository\bin\Debug\Repository.dll
+C:\Users\s23-rp\Desktop\Repository\MvcApplication4\Repository\bin\Debug\Repository.pdb
+C:\Users\s23-rp\Desktop\Repository\MvcApplication4\Repository\bin\Debug\EntityFramework.dll
+C:\Users\s23-rp\Desktop\Repository\MvcApplication4\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\s23-rp\Desktop\Repository\MvcApplication4\Repository\bin\Debug\EntityFramework.xml
+C:\Users\s23-rp\Desktop\Repository\MvcApplication4\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\s23-rp\Desktop\Repository\MvcApplication4\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\s23-rp\Desktop\Repository\MvcApplication4\Repository\obj\Debug\Repository.dll
+C:\Users\s23-rp\Desktop\Repository\MvcApplication4\Repository\obj\Debug\Repository.pdb
+C:\Users\Максим\Desktop\Repository\MvcApplication4\Repository\bin\Debug\Repository.dll.config
+C:\Users\Максим\Desktop\Repository\MvcApplication4\Repository\bin\Debug\Repository.dll
+C:\Users\Максим\Desktop\Repository\MvcApplication4\Repository\bin\Debug\Repository.pdb
+C:\Users\Максим\Desktop\Repository\MvcApplication4\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Максим\Desktop\Repository\MvcApplication4\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Максим\Desktop\Repository\MvcApplication4\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Максим\Desktop\Repository\MvcApplication4\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Максим\Desktop\Repository\MvcApplication4\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\Repository\MvcApplication4\Repository\obj\Debug\Repository.dll
+C:\Users\Максим\Desktop\Repository\MvcApplication4\Repository\obj\Debug\Repository.pdb
+C:\Users\Slavik\Desktop\Team Pr\Repository\MvcApplication4\Repository\bin\Debug\Repository.dll.config
+C:\Users\Slavik\Desktop\Team Pr\Repository\MvcApplication4\Repository\bin\Debug\Repository.dll
+C:\Users\Slavik\Desktop\Team Pr\Repository\MvcApplication4\Repository\bin\Debug\Repository.pdb
+C:\Users\Slavik\Desktop\Team Pr\Repository\MvcApplication4\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Slavik\Desktop\Team Pr\Repository\MvcApplication4\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Slavik\Desktop\Team Pr\Repository\MvcApplication4\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Slavik\Desktop\Team Pr\Repository\MvcApplication4\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Slavik\Desktop\Team Pr\Repository\MvcApplication4\Repository\obj\Debug\Repository.dll
+C:\Users\Slavik\Desktop\Team Pr\Repository\MvcApplication4\Repository\obj\Debug\Repository.pdb
+C:\Users\Slavik\Desktop\Team Pr\Repository\TeamShopApp\Repository\bin\Debug\Repository.dll.config
+C:\Users\Slavik\Desktop\Team Pr\Repository\TeamShopApp\Repository\bin\Debug\Repository.dll
+C:\Users\Slavik\Desktop\Team Pr\Repository\TeamShopApp\Repository\bin\Debug\Repository.pdb
+C:\Users\Slavik\Desktop\Team Pr\Repository\TeamShopApp\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Slavik\Desktop\Team Pr\Repository\TeamShopApp\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Slavik\Desktop\Team Pr\Repository\TeamShopApp\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Slavik\Desktop\Team Pr\Repository\TeamShopApp\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Slavik\Desktop\Team Pr\Repository\TeamShopApp\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\Team Pr\Repository\TeamShopApp\Repository\obj\Debug\Repository.dll
+C:\Users\Slavik\Desktop\Team Pr\Repository\TeamShopApp\Repository\obj\Debug\Repository.pdb

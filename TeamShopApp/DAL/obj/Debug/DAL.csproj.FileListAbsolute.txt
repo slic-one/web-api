@@ -1,0 +1,60 @@
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\DAL\bin\Debug\DAL.dll.config
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\DAL\bin\Debug\DAL.dll
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\DAL\bin\Debug\DAL.pdb
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\DAL\bin\Debug\EntityFramework.dll
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\DAL\bin\Debug\Repository.dll
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\DAL\bin\Debug\Repository.pdb
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\DAL\bin\Debug\EntityFramework.xml
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\DAL\obj\Debug\DAL.dll
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\DAL\obj\Debug\DAL.pdb
+C:\Users\s23-rp\Desktop\Repository\MvcApplication4\DAL\bin\Debug\DAL.dll.config
+C:\Users\s23-rp\Desktop\Repository\MvcApplication4\DAL\bin\Debug\DAL.dll
+C:\Users\s23-rp\Desktop\Repository\MvcApplication4\DAL\bin\Debug\DAL.pdb
+C:\Users\s23-rp\Desktop\Repository\MvcApplication4\DAL\bin\Debug\EntityFramework.dll
+C:\Users\s23-rp\Desktop\Repository\MvcApplication4\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\s23-rp\Desktop\Repository\MvcApplication4\DAL\bin\Debug\Repository.dll
+C:\Users\s23-rp\Desktop\Repository\MvcApplication4\DAL\bin\Debug\Repository.pdb
+C:\Users\s23-rp\Desktop\Repository\MvcApplication4\DAL\bin\Debug\EntityFramework.xml
+C:\Users\s23-rp\Desktop\Repository\MvcApplication4\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\s23-rp\Desktop\Repository\MvcApplication4\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\s23-rp\Desktop\Repository\MvcApplication4\DAL\obj\Debug\DAL.dll
+C:\Users\s23-rp\Desktop\Repository\MvcApplication4\DAL\obj\Debug\DAL.pdb
+C:\Users\Максим\Desktop\Repository\MvcApplication4\DAL\bin\Debug\DAL.dll.config
+C:\Users\Максим\Desktop\Repository\MvcApplication4\DAL\bin\Debug\DAL.dll
+C:\Users\Максим\Desktop\Repository\MvcApplication4\DAL\bin\Debug\DAL.pdb
+C:\Users\Максим\Desktop\Repository\MvcApplication4\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Максим\Desktop\Repository\MvcApplication4\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Максим\Desktop\Repository\MvcApplication4\DAL\bin\Debug\Repository.dll
+C:\Users\Максим\Desktop\Repository\MvcApplication4\DAL\bin\Debug\Repository.pdb
+C:\Users\Максим\Desktop\Repository\MvcApplication4\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Максим\Desktop\Repository\MvcApplication4\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Максим\Desktop\Repository\MvcApplication4\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\Repository\MvcApplication4\DAL\obj\Debug\DAL.dll
+C:\Users\Максим\Desktop\Repository\MvcApplication4\DAL\obj\Debug\DAL.pdb
+C:\Users\Slavik\Desktop\Team Pr\Repository\MvcApplication4\DAL\bin\Debug\DAL.dll.config
+C:\Users\Slavik\Desktop\Team Pr\Repository\MvcApplication4\DAL\bin\Debug\DAL.dll
+C:\Users\Slavik\Desktop\Team Pr\Repository\MvcApplication4\DAL\bin\Debug\DAL.pdb
+C:\Users\Slavik\Desktop\Team Pr\Repository\MvcApplication4\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Slavik\Desktop\Team Pr\Repository\MvcApplication4\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Slavik\Desktop\Team Pr\Repository\MvcApplication4\DAL\bin\Debug\Repository.dll
+C:\Users\Slavik\Desktop\Team Pr\Repository\MvcApplication4\DAL\bin\Debug\Repository.pdb
+C:\Users\Slavik\Desktop\Team Pr\Repository\MvcApplication4\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Slavik\Desktop\Team Pr\Repository\MvcApplication4\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Slavik\Desktop\Team Pr\Repository\MvcApplication4\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\Team Pr\Repository\MvcApplication4\DAL\obj\Debug\DAL.dll
+C:\Users\Slavik\Desktop\Team Pr\Repository\MvcApplication4\DAL\obj\Debug\DAL.pdb
+C:\Users\Slavik\Desktop\Team Pr\Repository\TeamShopApp\DAL\bin\Debug\DAL.dll.config
+C:\Users\Slavik\Desktop\Team Pr\Repository\TeamShopApp\DAL\bin\Debug\DAL.dll
+C:\Users\Slavik\Desktop\Team Pr\Repository\TeamShopApp\DAL\bin\Debug\DAL.pdb
+C:\Users\Slavik\Desktop\Team Pr\Repository\TeamShopApp\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Slavik\Desktop\Team Pr\Repository\TeamShopApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Slavik\Desktop\Team Pr\Repository\TeamShopApp\DAL\bin\Debug\Repository.dll
+C:\Users\Slavik\Desktop\Team Pr\Repository\TeamShopApp\DAL\bin\Debug\Repository.pdb
+C:\Users\Slavik\Desktop\Team Pr\Repository\TeamShopApp\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Slavik\Desktop\Team Pr\Repository\TeamShopApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Slavik\Desktop\Team Pr\Repository\TeamShopApp\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\Team Pr\Repository\TeamShopApp\DAL\obj\Debug\DAL.dll
+C:\Users\Slavik\Desktop\Team Pr\Repository\TeamShopApp\DAL\obj\Debug\DAL.pdb

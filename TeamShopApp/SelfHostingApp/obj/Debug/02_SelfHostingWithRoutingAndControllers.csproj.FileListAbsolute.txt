@@ -1,0 +1,82 @@
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\Web API self-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\02_SelfHostingWithRoutingAndControllers.exe.config
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\Web API self-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\02_SelfHostingWithRoutingAndControllers.exe
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\Web API self-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\02_SelfHostingWithRoutingAndControllers.pdb
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\Web API self-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\Newtonsoft.Json.dll
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\Web API self-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Net.Http.Formatting.dll
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\Web API self-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Web.Http.dll
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\Web API self-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Web.Http.SelfHost.dll
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\Web API self-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\Newtonsoft.Json.xml
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\Web API self-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Net.Http.Formatting.xml
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\Web API self-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Web.Http.xml
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\Web API self-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Web.Http.SelfHost.xml
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\Web API self-hosting\02_SelfHostingWithRoutingAndControllers\obj\Debug\02_SelfHostingWithRoutingAndControllers.csprojResolveAssemblyReference.cache
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\Web API self-hosting\02_SelfHostingWithRoutingAndControllers\obj\Debug\02_SelfHostingWithRoutingAndControllers.exe
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\Web API self-hosting\02_SelfHostingWithRoutingAndControllers\obj\Debug\02_SelfHostingWithRoutingAndControllers.pdb
+I:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\Web API self-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\02_SelfHostingWithRoutingAndControllers.exe.config
+I:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\Web API self-hosting\02_SelfHostingWithRoutingAndControllers\obj\Debug\02_SelfHostingWithRoutingAndControllers.exe
+I:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\Web API self-hosting\02_SelfHostingWithRoutingAndControllers\obj\Debug\02_SelfHostingWithRoutingAndControllers.pdb
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\02_SelfHostingWithRoutingAndControllers.exe.config
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\obj\Debug\02_SelfHostingWithRoutingAndControllers.exe
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\obj\Debug\02_SelfHostingWithRoutingAndControllers.pdb
+I:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\02_SelfHostingWithRoutingAndControllers.exe.config
+I:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\obj\Debug\02_SelfHostingWithRoutingAndControllers.exe
+I:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\obj\Debug\02_SelfHostingWithRoutingAndControllers.pdb
+I:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\02_SelfHostingWithRoutingAndControllers.exe
+I:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\02_SelfHostingWithRoutingAndControllers.pdb
+I:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\Newtonsoft.Json.dll
+I:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Net.Http.Formatting.dll
+I:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Web.Http.dll
+I:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Web.Http.SelfHost.dll
+I:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\Newtonsoft.Json.xml
+I:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Net.Http.Formatting.xml
+I:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Web.Http.xml
+I:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Web.Http.SelfHost.xml
+I:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\obj\Debug\02_SelfHostingWithRoutingAndControllers.csprojResolveAssemblyReference.cache
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\02_SelfHostingWithRoutingAndControllers.exe
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\02_SelfHostingWithRoutingAndControllers.pdb
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\Newtonsoft.Json.dll
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Net.Http.Formatting.dll
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Web.Http.dll
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Web.Http.SelfHost.dll
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\Newtonsoft.Json.xml
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Net.Http.Formatting.xml
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Web.Http.xml
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Web.Http.SelfHost.xml
+E:\_my\ASP.NET MVC 4 Course\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\obj\Debug\02_SelfHostingWithRoutingAndControllers.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET MVC 4\Примеры. Александр Бондарчук\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\02_SelfHostingWithRoutingAndControllers.exe.config
+D:\Lessons\ASP.NET MVC 4\Примеры. Александр Бондарчук\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\obj\Debug\02_SelfHostingWithRoutingAndControllers.exe
+D:\Lessons\ASP.NET MVC 4\Примеры. Александр Бондарчук\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\obj\Debug\02_SelfHostingWithRoutingAndControllers.pdb
+D:\Lessons\ASP.NET MVC 4\Примеры. Александр Бондарчук\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\02_SelfHostingWithRoutingAndControllers.exe
+D:\Lessons\ASP.NET MVC 4\Примеры. Александр Бондарчук\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\02_SelfHostingWithRoutingAndControllers.pdb
+D:\Lessons\ASP.NET MVC 4\Примеры. Александр Бондарчук\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\Newtonsoft.Json.dll
+D:\Lessons\ASP.NET MVC 4\Примеры. Александр Бондарчук\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Net.Http.Formatting.dll
+D:\Lessons\ASP.NET MVC 4\Примеры. Александр Бондарчук\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Web.Http.dll
+D:\Lessons\ASP.NET MVC 4\Примеры. Александр Бондарчук\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Web.Http.SelfHost.dll
+D:\Lessons\ASP.NET MVC 4\Примеры. Александр Бондарчук\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\Newtonsoft.Json.xml
+D:\Lessons\ASP.NET MVC 4\Примеры. Александр Бондарчук\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Net.Http.Formatting.xml
+D:\Lessons\ASP.NET MVC 4\Примеры. Александр Бондарчук\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Web.Http.xml
+D:\Lessons\ASP.NET MVC 4\Примеры. Александр Бондарчук\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Web.Http.SelfHost.xml
+D:\Lessons\ASP.NET MVC 4\Примеры. Александр Бондарчук\003 - ASP.NET Web API (Часть 2)\002_WebAPIself-hosting\02_SelfHostingWithRoutingAndControllers\obj\Debug\02_SelfHostingWithRoutingAndControllers.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET MVC 4\003 WebAPI Part II\002 SelfHosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\02_SelfHostingWithRoutingAndControllers.exe.config
+D:\Lessons\ASP.NET MVC 4\003 WebAPI Part II\002 SelfHosting\02_SelfHostingWithRoutingAndControllers\obj\Debug\02_SelfHostingWithRoutingAndControllers.exe
+D:\Lessons\ASP.NET MVC 4\003 WebAPI Part II\002 SelfHosting\02_SelfHostingWithRoutingAndControllers\obj\Debug\02_SelfHostingWithRoutingAndControllers.pdb
+D:\Lessons\ASP.NET MVC 4\003 WebAPI Part II\002 SelfHosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\02_SelfHostingWithRoutingAndControllers.exe
+D:\Lessons\ASP.NET MVC 4\003 WebAPI Part II\002 SelfHosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\02_SelfHostingWithRoutingAndControllers.pdb
+D:\Lessons\ASP.NET MVC 4\003 WebAPI Part II\002 SelfHosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\Newtonsoft.Json.dll
+D:\Lessons\ASP.NET MVC 4\003 WebAPI Part II\002 SelfHosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Net.Http.Formatting.dll
+D:\Lessons\ASP.NET MVC 4\003 WebAPI Part II\002 SelfHosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Web.Http.dll
+D:\Lessons\ASP.NET MVC 4\003 WebAPI Part II\002 SelfHosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Web.Http.SelfHost.dll
+D:\Lessons\ASP.NET MVC 4\003 WebAPI Part II\002 SelfHosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\Newtonsoft.Json.xml
+D:\Lessons\ASP.NET MVC 4\003 WebAPI Part II\002 SelfHosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Net.Http.Formatting.xml
+D:\Lessons\ASP.NET MVC 4\003 WebAPI Part II\002 SelfHosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Web.Http.xml
+D:\Lessons\ASP.NET MVC 4\003 WebAPI Part II\002 SelfHosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\System.Web.Http.SelfHost.xml
+D:\Lessons\ASP.NET MVC 4\003 WebAPI Part II\002 SelfHosting\02_SelfHostingWithRoutingAndControllers\obj\Debug\02_SelfHostingWithRoutingAndControllers.csprojResolveAssemblyReference.cache
+D:\[ITVDN] ASP.NET MVC 4\003 WebAPI Part II\002 SelfHosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\02_SelfHostingWithRoutingAndControllers.exe.config
+D:\[ITVDN] ASP.NET MVC 4\003 WebAPI Part II\002 SelfHosting\02_SelfHostingWithRoutingAndControllers\obj\Debug\02_SelfHostingWithRoutingAndControllers.exe
+D:\[ITVDN] ASP.NET MVC 4\003 WebAPI Part II\002 SelfHosting\02_SelfHostingWithRoutingAndControllers\obj\Debug\02_SelfHostingWithRoutingAndControllers.pdb
+C:\Users\s23-rp\Desktop\28.12.16\002 SelfHosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\02_SelfHostingWithRoutingAndControllers.exe.config
+C:\Users\s23-rp\Desktop\28.12.16\002 SelfHosting\02_SelfHostingWithRoutingAndControllers\obj\Debug\02_SelfHostingWithRoutingAndControllers.exe
+C:\Users\s23-rp\Desktop\28.12.16\002 SelfHosting\02_SelfHostingWithRoutingAndControllers\obj\Debug\02_SelfHostingWithRoutingAndControllers.pdb
+C:\Users\Slavik\Desktop\Team Pr\002 SelfHosting\02_SelfHostingWithRoutingAndControllers\bin\Debug\02_SelfHostingWithRoutingAndControllers.exe.config
+C:\Users\Slavik\Desktop\Team Pr\002 SelfHosting\02_SelfHostingWithRoutingAndControllers\obj\Debug\02_SelfHostingWithRoutingAndControllers.exe
+C:\Users\Slavik\Desktop\Team Pr\002 SelfHosting\02_SelfHostingWithRoutingAndControllers\obj\Debug\02_SelfHostingWithRoutingAndControllers.pdb

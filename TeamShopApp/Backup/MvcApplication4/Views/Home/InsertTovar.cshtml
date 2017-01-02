@@ -1,0 +1,11 @@
+﻿@model DAL.Tovar
+
+@{
+    ViewBag.Title = "InsertTovar";
+}
+@using(Html.BeginForm())
+{
+    @Html.EditorFor(Model => Model.Name)
+    @Html.EditorFor(Model => Model.Price)
+    <input type="submit" value="Insert" />
+}

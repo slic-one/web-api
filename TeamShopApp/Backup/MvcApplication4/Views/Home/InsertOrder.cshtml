@@ -1,0 +1,11 @@
+﻿@model DAL.Order
+
+@{
+    ViewBag.Title = "InsertOrder";
+}
+@using(Html.BeginForm())
+{
+    @Html.EditorFor(Model => Model.Amount)
+    @Html.EditorFor(Model => Model.Tovar)
+    <input type="submit" value="Insert" />
+}
