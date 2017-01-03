@@ -1,0 +1,36 @@
+﻿<pre>
+Хай народ. То Славко)
+
+    Інформація по проекту
+
+    -----------------------
+Для реєстрації юзера заголовок типу POST:
+Заголовок:
+
+Host: localhost:9988
+Content-Length: 66
+Content-Type: application/x-www-form-urlencoded
+
+Тіло(приклад):
+email=(пошта користувача)&password=(Пароль)&confirmPassword=(Ще раз)
+
+-----------------------
+
+Доступ до API з токеном:
+Щоб дістати токен послати пост запит на адресу: http://localhost:9988/token
+1) Заголовок:
+Host: localhost:9988
+Content-Length: 51
+Content-Type: application/x-www-form-urlencoded
+2)Тіло:
+username=(тут ім'я користувача)&password=(Тут пароль)&grant_type=password
+
+!Я створив вже АДМІНА : логін admin, пароль: itstep
+!Звичайний користувач (з обмеженнями): логін user, пароль: itstep2
+
+3) У відповідть прийде json об'єкт у якому буде змінна access_token де і буде сам токен
+
+4) При наступних запиті у заголовку повинен бути токен:
+Host: localhost:9988
+Authorization: Bearer pamv37IJP2xXdVGvUj0gpVgte... довгий токен  (ЦЕ ОБОВ'ЯЗКОВО)
+</pre>
