@@ -34,7 +34,7 @@ namespace SelfHostingApp
             return uow.Orders.GetAll();
         }
 
-        [Authorize(Roles = "Admin")]
+        [Authorize]
         public HttpResponseMessage Post(Order obj)
         {
             try
@@ -48,7 +48,7 @@ namespace SelfHostingApp
             }
         }
 
-        [Authorize(Roles = "Admin")]
+        [Authorize]
         public HttpResponseMessage Put(Order obj)
         {
             try
@@ -62,7 +62,7 @@ namespace SelfHostingApp
             }
         }
 
-        [Authorize(Roles = "Admin")]
+        [Authorize]
         public HttpResponseMessage Delete(int id)
         {
             return (uow.Orders.Delete(id)) ?

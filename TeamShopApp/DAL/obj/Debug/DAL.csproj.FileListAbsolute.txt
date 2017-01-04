@@ -70,3 +70,15 @@ C:\Users\Slavik\Desktop\Go Token\TeamShopApp\DAL\bin\Debug\EntityFramework.SqlSe
 C:\Users\Slavik\Desktop\Go Token\TeamShopApp\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 C:\Users\Slavik\Desktop\Go Token\TeamShopApp\DAL\obj\Debug\DAL.dll
 C:\Users\Slavik\Desktop\Go Token\TeamShopApp\DAL\obj\Debug\DAL.pdb
+C:\Users\Slavik\Desktop\New folder\TeamShopApp\DAL\bin\Debug\DAL.dll.config
+C:\Users\Slavik\Desktop\New folder\TeamShopApp\DAL\bin\Debug\DAL.dll
+C:\Users\Slavik\Desktop\New folder\TeamShopApp\DAL\bin\Debug\DAL.pdb
+C:\Users\Slavik\Desktop\New folder\TeamShopApp\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Slavik\Desktop\New folder\TeamShopApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Slavik\Desktop\New folder\TeamShopApp\DAL\bin\Debug\Repository.dll
+C:\Users\Slavik\Desktop\New folder\TeamShopApp\DAL\bin\Debug\Repository.pdb
+C:\Users\Slavik\Desktop\New folder\TeamShopApp\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Slavik\Desktop\New folder\TeamShopApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Slavik\Desktop\New folder\TeamShopApp\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\New folder\TeamShopApp\DAL\obj\Debug\DAL.dll
+C:\Users\Slavik\Desktop\New folder\TeamShopApp\DAL\obj\Debug\DAL.pdb
