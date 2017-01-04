@@ -10,7 +10,6 @@ using System.Net;
 
 namespace SelfHostingApp
 {
-    [Authorize]
     public class CategoryController : ApiController
     {
         //Клас обгортка для бази даних
@@ -19,7 +18,7 @@ namespace SelfHostingApp
         // http://localhost:8889/api/category
 
         // ** На метод GET ** //
-        [Authorize(Roles = "User,Admin")]
+        
         public Category Get(int id)
         {
             try
@@ -30,7 +29,6 @@ namespace SelfHostingApp
             { return null; } // Якщо немає категорії
         }
 
-        [Authorize(Roles = "User,Admin")]
         public IEnumerable<Category> GetAll()
         {
             return uow.Categories.GetAll();

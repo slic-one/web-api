@@ -10,7 +10,7 @@ using System.Net;
 
 namespace SelfHostingApp
 {
-    [Authorize]
+
     public class TovarController : ApiController
     {
         //Клас обгортка для бази даних
@@ -19,7 +19,6 @@ namespace SelfHostingApp
         // http://localhost:8889/api/tovar
 
         // ** На метод GET ** //
-        [Authorize(Roles = "User,Admin")]
         public Tovar Get(int id)
         {
             try
@@ -29,7 +28,6 @@ namespace SelfHostingApp
             catch (Exception e) { return null; } // Якщо немає категорії
         }
 
-        [Authorize(Roles = "User,Admin")]
         public IEnumerable<Tovar> GetAll()
         {
             return uow.Tovars.GetAll();
